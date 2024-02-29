@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: DiamondPricePrediction
-Version: 1.0.0
-Author: Pranathi
-Author-email: pranathikurmaiahgari5@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: flask
